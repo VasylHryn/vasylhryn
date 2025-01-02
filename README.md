@@ -5,7 +5,6 @@ Hi, I'm **Vasyl Hryn** — a **PHP Laravel Backend Developer**. Passionate about
 - 🚀 Building scalable applications with Laravel
 - 🌱 Always learning new ways to improve backend performance
 - 💡 Passionate about simplifying workflows and automating tasks
-- 🛠️ Ask me about Laravel, performance optimizations, and best practices
 - 📬 Feel free to reach out via DM 📱 or email me at murphy31337@gmail.com
 
 ---
@@ -48,8 +47,5 @@ Hi, I'm **Vasyl Hryn** — a **PHP Laravel Backend Developer**. Passionate about
   </a>
   <a href="https://t.me/ajhvxg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-  <a href="mailto:murphy31337@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
