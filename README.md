@@ -45,7 +45,4 @@ Hi, I'm **Vasyl Hryn** — a **PHP Laravel Backend Developer**. Passionate about
   <a href="https://www.linkedin.com/in/vasyl-h-28b01025a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://t.me/ajhvxg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
 </div>
